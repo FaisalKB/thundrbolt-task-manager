@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# ThundrBolt: Task management done lightning quick
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
