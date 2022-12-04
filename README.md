@@ -18,6 +18,16 @@ As somebody who struggles with his mental health, it's hard to take the steps ne
 
 The internet has become bloated with technology that serves us at a cost. Whether that cost be money, time, data or frustration, we pay for tools to make our lives easier. We find ourselves striving for convenience, as inconvenient as it may be! ThundrBolt takes away those costs. It runs entirely in your browser so you don't need to download anything. It's 100% free, so you don't need to pay any fees or subscription costs, and above all it's easy to use! Simply log tasks you need to complete, mark them as complete, and go on with your day.
 
+### What's next for ThundrBolt?
+
+I'll try my best to update this section as I develop the app further. I have several features I'd like to implement, ranging from small QoL tweaks, to fundamental changes to the app that expand its total functionality. Features on my radar (in no particular order of importance, difficulty or other) include:
+
+- Adding additonal inputs to the task form, allowing for optional details to be included for each task.
+- Adding the ability to mark certain tasks as priority, moving them to the top of the list.
+- Adding date and time features to add time management, such as due dates, time constraints and more.
+- Adding a seperate list for completed tasks.
+- Adding a separate list for tasks that are currently being worked on. This would convert ThundrBolt into a Kanban-style app.
+
 ## Features
 
 ThundrBolt boasts several features that make it work so well. Below I'll break down a few of these features, and hope to add more as I further Develope it!
