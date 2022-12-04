@@ -8,13 +8,25 @@
 
 ThundrBolt is a free task management application for anybody who likes to visualize, organize and manage their tasks in one convenient web application. In a rush? No worries! ThundrBolt doesn't require you to create an account, doesn't require any form of payment or commitment, and runs entirely in your browser with no installations required at all.
 
-### Simple & Clean Dashboard
+### Why make ThundrBolt?
+
+As somebody who struggles with his mental health, it's hard to take the steps necessary to take back control of my life. Commitments that may seem small to some, appear much larger to others. Creating accounts, paying money or downloading software can be a hefty task for something you're already struggling to implement. ThundrBolt exists for people like me, like us; those who want to take baby-steps to taking back control of their life. ThundrBolt was the first step for me to take more accountability for myself, and I'm hoping that at least one other person can do the same.
+
+### Why choose ThundrBolt?
+
+The internet has become bloated with technology that serves us at a cost. Whether that cost be money, time, data or frustration, we pay for tools to make our lives easier. We find ourselves striving for convenience, as inconvenient as it may be! ThundrBolt takes away those costs. It runs entirely in your browser so you don't need to download anything. It's 100% free, so you don't need to pay any fees or subscription costs, and above all it's easy to use! Simply log tasks you need to complete, mark them as complete, and go on with your day.
+
+## Features
+
+ThundrBolt boasts several features that make it work so well. Below I'll break down a few of these features, and hope to add more as I further Develope it!
+
+## Simple & Clean Dashboard
 
 ![ThundrBolt Dashboard](./images/thundrboltdash.jpg)
 
 Fresh, clean and simple, the dashboard is as elegant as it is easy on the eyes. Everything you need is at a glance, from where you type your tasks, to where they are listed, to information about your task list, including how many you have left and a way to clear your completed tasks! As you add tasks, they cleanly stack in your task list as shown below.
 
-### Organized Task List
+## Organized Task List
 
 ![ThundrBolt Task List](./images/thundrbolttasklist.jpg)
 
