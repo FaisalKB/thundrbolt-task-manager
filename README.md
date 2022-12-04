@@ -8,13 +8,17 @@
 
 ThundrBolt is a free task management application for anybody who likes to visualize, organize and manage their tasks in one convenient web application. In a rush? No worries! ThundrBolt doesn't require you to create an account, doesn't require any form of payment or commitment, and runs entirely in your browser with no installations required at all.
 
+### Simple & Clean Dashboard
+
 ![ThundrBolt Dashboard](./images/thundrboltdash.jpg)
 
 Fresh, clean and simple, the dashboard is as elegant as it is easy on the eyes. Everything you need is at a glance, from where you type your tasks, to where they are listed, to information about your task list, including how many you have left and a way to clear your completed tasks! As you add tasks, they cleanly stack in your task list as shown below.
 
+### Organized Task List
+
 ![ThundrBolt Task List](./images/thundrbolttasklist.jpg)
 
-
+Tasks neatly line up in their own list, single-file and evenly spaced. The calm and refreshing layout inspires organization. You'll want to fill your day with tasks!
 
 
 
