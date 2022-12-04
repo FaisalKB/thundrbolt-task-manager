@@ -2,7 +2,7 @@
 
 ![ThundrBolt Header](./images/thundrboltheader.jpg)
 
-### To see the app in action, [click here!](https://facebook.github.io/create-react-app/docs/deployment) App is currently deployed via Vercel.
+### To see the app in action, [click here!](https://thundrbolt.vercel.app/) App is currently deployed via Vercel.
 
 ## About:
 
