@@ -1,6 +1,6 @@
-# ThundrBolt: Task management done lightning quick
+# ThundrBolt: Task management done lightning quick!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![ThundrBolt Header](./images/thundrboltheader.jpg)
 
 ## Available Scripts
 
