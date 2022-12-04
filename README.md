@@ -32,11 +32,11 @@ Fresh, clean and simple, the dashboard is as elegant as it is easy on the eyes. 
 
 Tasks neatly line up in their own list, single-file and evenly spaced. The calm and refreshing layout inspires organization. You'll want to fill your day with tasks!
 
+## Intuitive Design
+
+![ThundrBolt Tasks](./images/thundrbolttasklist.jpg)
 
 
-### Why choose ThundrBolt?
-
-The internet has become bloated with technology that serves us at a cost. Whether that cost be money, time, data or frustration, we pay for tools to make our lives easier. We find ourselves striving for convenience, as inconvenient as it may be! ThundrBolt takes away those costs. It runs entirely in your browser so you don't need to download anything. It's 100% free, so you don't need to pay any fees or subscription costs, and above all it's easy to use! Simply log tasks you need to complete, mark them as complete, and go on with your day.
 
 ### `npm run build`
 
