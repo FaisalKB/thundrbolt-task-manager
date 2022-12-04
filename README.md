@@ -2,17 +2,11 @@
 
 ![ThundrBolt Header](./images/thundrboltheader.jpg)
 
-## Available Scripts
+## About:
 
-In the project directory, you can run:
+### What is ThundrBolt?
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+ThundrBolt is a free task management application for anybody who likes to visualize, organize and manage their tasks in one convenient web application. In a rush? No worries! ThundrBolt doesn't require you to create an account, doesn't require any form of payment or commitment, and runs entirely in your browser with no installations required at all.
 
 ### `npm test`
 
