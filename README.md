@@ -34,7 +34,7 @@ Tasks neatly line up in their own list, single-file and evenly spaced. The calm 
 
 ## Intuitive Design
 
-![ThundrBolt Tasks](./images/thundrbolttasklist.jpg)
+![ThundrBolt Tasks](./images/thundrbolttasks.jpg)
 
 
 
