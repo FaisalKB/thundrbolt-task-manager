@@ -2,6 +2,8 @@
 
 ![ThundrBolt Header](./images/thundrboltheader.jpg)
 
+### To see the app in action, [click here!](https://facebook.github.io/create-react-app/docs/deployment) App is currently deployed via Vercel.
+
 ## About:
 
 ### What is ThundrBolt?
@@ -30,60 +32,22 @@ Fresh, clean and simple, the dashboard is as elegant as it is easy on the eyes. 
 
 ![ThundrBolt Task List](./images/thundrbolttasklist.jpg)
 
-Tasks neatly line up in their own list, single-file and evenly spaced. The calm and refreshing layout inspires organization. You'll want to fill your day with tasks!
+Tasks neatly line up in their own list, single-file and evenly spaced. The calm and refreshing layout inspires organization. You'll want to fill your day with tasks! Each task adorns its own button that shows the status. Need to circle back to a previously completed task? No worries! The button toggles, so you're free to mark completed tasks as in-progress if needed.  
 
 ## Intuitive Design
 
 ![ThundrBolt Tasks](./images/thundrbolttasks.jpg)
 
+Tasks remain in your task list as a way to motivate you. As you see the yellow progress buttons turn green, you can witness your productivity in real time. The color-coordination allows for easy deciphering of task status. Next to the task list is the task Control Center. At this time, you're able to view the number of tasks you have left to complete, along with a button that allows you to clear completed tasks. That way, you're able to clear some of the clutter and keep your list as tidy as you like!
 
+## Stored in local memory
 
-### `npm run build`
+Tasks that you create are stored in your browser's history. No need to keep a paper log or keep the tab open. You can close the tab, reopen and refresh the page, and your task will remain!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Technology/Concepts Used
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- JavaScript ES6
+- ReactJS, including the use of state, effect hooks and ref.
+- Bootstrap v4
+- Single-responsibility principle: Modifiable and Reusable components.
+- Vercel for deployment
